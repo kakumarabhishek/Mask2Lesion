@@ -1,0 +1,6 @@
+[submodule "pytorch-CycleGAN-and-pix2pix"]
+	path = pytorch-CycleGAN-and-pix2pix
+	url = https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git
+[submodule "pix2pix-tensorflow"]
+	path = pix2pix-tensorflow
+	url = https://github.com/affinelayer/pix2pix-tensorflow.git
